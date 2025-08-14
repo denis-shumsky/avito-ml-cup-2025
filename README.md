@@ -59,6 +59,7 @@
 
 ## Структура
 
+```
 .
 ├─ data/
 │ ├─ raw/
@@ -76,4 +77,4 @@
 ├─ README.md
 └─ Releases (text_features.pq, cat_features.pq, clickstream.pq)
 Лицензия: MIT.
-
+```
