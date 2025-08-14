@@ -58,6 +58,7 @@
 [Скачать PDF](images/Шумский_Денис_Перс_рекомендации.pdf)
 
 ## Структура
+
 .
 ├─ data/
 │ ├─ raw/
@@ -74,5 +75,5 @@
 ├─ src/
 ├─ README.md
 └─ Releases (text_features.pq, cat_features.pq, clickstream.pq)
-
+Лицензия: MIT.
 
