@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="images/logo.JPG" alt="AvitoTech ML Cup 2025" width="800">
+  <img src="images/logo.JPG" alt="AvitoTech ML Cup 2025" width="1000">
 </p>
 
 # AvitoTech ML Cup 2025 — Персональные рекомендации
