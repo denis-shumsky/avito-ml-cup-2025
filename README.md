@@ -57,22 +57,3 @@
 ## Сертификат
 [Скачать PDF](images/Шумский_Денис_Перс_рекомендации.pdf)
 
-## Структура
-
-```
-├─ data/
-│ ├─ raw/
-│ │ ├─ events.pq
-│ │ ├─ test_users.pq
-│ │ └─ submit_example.csv
-│ └─ processed/
-│ └─ submit.csv
-├─ notebooks/
-│ ├─ baseline.ipynb
-│ └─ avito_2025.ipynb
-├─ images/
-│ └─ Шумский_Денис_Перс_рекомендации.pdf
-├─ src/
-├─ README.md
-└─ Releases (text_features.pq, cat_features.pq, clickstream.pq)
-```
