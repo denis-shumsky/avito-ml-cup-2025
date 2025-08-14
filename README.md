@@ -60,7 +60,6 @@
 ## Структура
 
 ```
-.
 ├─ data/
 │ ├─ raw/
 │ │ ├─ events.pq
@@ -76,5 +75,4 @@
 ├─ src/
 ├─ README.md
 └─ Releases (text_features.pq, cat_features.pq, clickstream.pq)
-Лицензия: MIT.
 ```
